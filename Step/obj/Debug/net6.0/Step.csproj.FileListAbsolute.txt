@@ -1,0 +1,15 @@
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Step\obj\Debug\net6.0\Step.csproj.AssemblyReference.cache
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Step\obj\Debug\net6.0\Step.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Step\obj\Debug\net6.0\Step.AssemblyInfoInputs.cache
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Step\obj\Debug\net6.0\Step.AssemblyInfo.cs
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Step\obj\Debug\net6.0\Step.csproj.CoreCompileInputs.cache
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Step\bin\Debug\net6.0\Step.exe
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Step\bin\Debug\net6.0\Step.deps.json
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Step\bin\Debug\net6.0\Step.runtimeconfig.json
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Step\bin\Debug\net6.0\Step.dll
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Step\bin\Debug\net6.0\Step.pdb
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Step\obj\Debug\net6.0\Step.dll
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Step\obj\Debug\net6.0\refint\Step.dll
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Step\obj\Debug\net6.0\Step.pdb
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Step\obj\Debug\net6.0\Step.genruntimeconfig.cache
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Step\obj\Debug\net6.0\ref\Step.dll
